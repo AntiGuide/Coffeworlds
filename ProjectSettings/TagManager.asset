@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - DeathTiles
+  - Bullets
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BlockingLayer
+  - Bullets
+  - Map
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 951829405
+    locked: 0
+  - name: Map
+    uniqueID: 3729269915
+    locked: 0
+  - name: PlayerBack
+    uniqueID: 2671070191
+    locked: 0
+  - name: Bullets
+    uniqueID: 713757441
+    locked: 0
+  - name: Gun
+    uniqueID: 2862689275
+    locked: 0
+  - name: Player
+    uniqueID: 4148832465
+    locked: 0
+  - name: PlayerFront
+    uniqueID: 1457968781
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
